@@ -13,7 +13,7 @@ This project can be a good start to practice the movement of the motors using H 
 
 ## Below mention arethe circuit diagram
 
-![](circuit diagram/Capture.JPG)
+![](circuit_diagram/Capture.JPG)
  
  
  ##
